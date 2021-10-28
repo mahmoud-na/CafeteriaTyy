@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "822295619314",
+    "project_id": "cafeteria-t",
+    "storage_bucket": "cafeteria-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822295619314:android:49840bb97f245b767f126b",
+        "android_client_info": {
+          "package_name": "com.example.cafeterytyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822295619314-921plrtps8ke48dif3n6r3kcm18vjj00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGg9aA-obsKnH71tegC0AzMOO2E6OMd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822295619314-921plrtps8ke48dif3n6r3kcm18vjj00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822295619314:android:4205e358d01746247f126b",
+        "android_client_info": {
+          "package_name": "com.example.fulltrialv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822295619314-921plrtps8ke48dif3n6r3kcm18vjj00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGg9aA-obsKnH71tegC0AzMOO2E6OMd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822295619314-921plrtps8ke48dif3n6r3kcm18vjj00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

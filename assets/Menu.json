@@ -1,0 +1,118 @@
+{
+  "Menu": [
+    {
+      "Food": [
+        {
+          "id": 0,
+          "name": "كشري",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "بانية",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "كشري",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "بانية",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "كشري",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "بانية",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "كشري",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "بانية",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "كشري",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        },
+        {
+          "id": 0,
+          "name": "بانية",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        }
+      ],
+      "Beverages": [
+        {
+          "id": 0,
+          "name": "شاي",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        }
+      ],
+      "Desserts": [
+        {
+          "id": 0,
+          "name": "بسكويت",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        }
+      ],
+      "Snacks": [
+        {
+          "id": 0,
+          "name": "بسكويت",
+          "price": 5.0,
+          "image": "images/Koshary.jpg",
+          "counter": 0,
+          "quantity": 0
+        }
+      ]
+    }
+  ]
+}
